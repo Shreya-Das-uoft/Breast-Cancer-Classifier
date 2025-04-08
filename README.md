@@ -1,4 +1,4 @@
-# 🎗️ Breast Cancer Classifier - README
+# 🎗 Breast Cancer Classifier - README
 
 ## 🚀 Project Overview
 This project aims to analyze and classify breast cancer data using exploratory data analysis (EDA) and machine learning. The workflow is divided into two phases:
